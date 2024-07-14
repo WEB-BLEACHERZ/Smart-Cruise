@@ -6,7 +6,7 @@ Welcome to **Smart Cruise: Self-Driving Car**, a sophisticated self-driving car 
 
 ## Features
 
-### 🚦 Checkpoints
+## 🚦 Checkpoints
 The car navigates through designated checkpoints, simulating a real-world scenario where it follows a specific route. Each checkpoint reached is a step closer to the goal!
 
 ### 💨 Speed Boost Zones
