@@ -25,7 +25,7 @@ Enhanced with A* pathfinding, the navigation algorithm optimizes the car’s rou
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/WEB-BLEACHERZ/smart-cruise.git
+    git@github.com:WEB-BLEACHERZ/Smart-Cruise.git
     ```
 2. Navigate to the project directory:
     ```bash
